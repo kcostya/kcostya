@@ -1,4 +1,12 @@
-### Hi there 👋
+## Kostyantyn Kravchenko
+### Data Scientist
+Machine Learning and Deep Learning Applications, Data Modeling, Forecasting and Time Series Analysis, Statistical Analysis, Business Analytics, Data Presentation, Natural Language Processing, Cloud Machine Learning Services. <br>
+Kaggle Competitions Expert. 
+
+#### Skills
+**Programming**: Python, SQL, R <br>
+**Machine Learning**: Regression, Classification, Clustering, Anomaly Detection, Time Series Analysis, Deep Learning, NLP <br>
+**Libraries/Frameworks**: Numpy, Pandas, Scikit-learn, SciPy, NLTK, Matplotlib, Seaborn, Keras, PyTorch, LightGBM, CatBoost, XGBoost, Flask, Dask
 
 <!--
 **kcostya/kcostya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
