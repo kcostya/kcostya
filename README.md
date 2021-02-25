@@ -6,7 +6,7 @@ Machine Learning and Deep Learning Applications, Data Modeling, Forecasting and 
 #### Skills
 **Programming**: Python, SQL, R <br>
 **Machine Learning**: Regression, Classification, Clustering, Anomaly Detection, Time Series Analysis, Deep Learning, NLP <br>
-**Libraries/Frameworks**: Numpy, Pandas, Scikit-learn, SciPy, NLTK, Matplotlib, Seaborn, Keras, PyTorch, LightGBM, CatBoost, XGBoost, Flask, Dask
+**Libraries/Frameworks**: Numpy, Pandas, Scikit-learn, SciPy, NLTK, Matplotlib, Seaborn, Tensorflow/Keras, PyTorch, LightGBM, CatBoost, XGBoost, Flask, Dask
 
 <!--
 **kcostya/kcostya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
