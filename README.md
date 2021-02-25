@@ -1,7 +1,7 @@
 ## Kostyantyn Kravchenko
 ### Data Scientist
 Machine Learning and Deep Learning Applications, Data Modeling, Forecasting and Time Series Analysis, Statistical Analysis, Business Analytics, Data Presentation, Natural Language Processing, Cloud Machine Learning Services. <br>
-Kaggle Competitions Expert. 
+[Kaggle Competitions Expert](https://www.kaggle.com/kcostya). 
 
 #### Skills
 **Programming**: Python, SQL, R <br>
