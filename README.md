@@ -1,11 +1,12 @@
 ## Kostyantyn Kravchenko
 ### Data Scientist
-Machine Learning and Deep Learning Applications, Data Modeling, Forecasting and Time Series Analysis, Statistical Analysis, Business Analytics, Data Presentation, Natural Language Processing, Cloud Machine Learning Services. <br>
+Accomplished data scientist with over 5 years experience and proven track record of success developing end-to-end machine learning solutions to drive business impact across energy, ridesharing, e-commerce, and finance sectors. Leverage strong engineering skills to take models from prototype to production - leading data preparation, feature engineering, model optimization, deployment, and monitoring. Able to clearly communicate insights through presentations, reports, and strategic recommendations to stakeholders. Seeking data scientist roles focused on creating scalable ML systems that drive value.<br>
+Key Skills: Machine Learning, Deep Learning, Data Modeling, Forecasting, Statistical Analysis, NLP. Multiple awards in ML competitions and hackathons.
 [Kaggle Competitions Expert](https://www.kaggle.com/kcostya). 
 
 #### Skills
-**Programming**: Python, SQL, R <br>
-**Machine Learning**: Regression, Classification, Clustering, Anomaly Detection, Time Series Analysis, Deep Learning, NLP <br>
+**Programming**: Python, SQL <br>
+**Machine Learning**: Regression, Classification, Clustering, Anomaly Detection, Time Series Analysis, Signal Processing, Deep Learning, NLP <br>
 **Libraries/Frameworks**: Numpy, Pandas, Scikit-learn, SciPy, NLTK, Matplotlib, Seaborn, Tensorflow/Keras, PyTorch, LightGBM, CatBoost, XGBoost, Flask, Dask
 
 <!--
